@@ -1,0 +1,5 @@
+﻿  proj101.cpp
+  test.cpp
+C:\Users\dani\source\repos\cmdoom\graphics101\proj101\test.cpp(151,35): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  Generating Code...
+  proj101.vcxproj -> C:\Users\dani\source\repos\cmdoom\graphics101\Debug\proj101.exe
